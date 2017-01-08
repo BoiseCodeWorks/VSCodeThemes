@@ -4,15 +4,15 @@ Offical Dark Theme of [CodeWorks](https://boisecodeworks.com).
 
 Example `JavaScript`
 
-<img src="theme-example-js.jpg" width="500">
+<img src="https://bcw.blob.core.windows.net/public/img/theme-example-images/theme-example-js.jpg" width="500">
 
 Example `html`
 
-<img fsrc="theme-example-js.jpg" width="500">
+<img src="https://bcw.blob.core.windows.net/public/img/theme-example-images/theme-example-js.jpg" width="500">
 
 Example `markdown`
 
-<img src="theme-example-md.jpg" width="500">
+<img src="https://bcw.blob.core.windows.net/public/img/theme-example-images/theme-example-md.jpg" width="500">
 
 ## Copyright
 

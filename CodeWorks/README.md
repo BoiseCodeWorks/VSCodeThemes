@@ -8,7 +8,7 @@ Example `JavaScript`
 
 Example `html`
 
-<img src="theme-example-js.jpg" width="500">
+<img fsrc="theme-example-js.jpg" width="500">
 
 Example `markdown`
 

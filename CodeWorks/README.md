@@ -18,4 +18,4 @@ Example `markdown`
 
 © CodeWorks LLC, 2016.
 
-<img src="logo.png" width="500">
+<img src="https://bcw.blob.core.windows.net/public/img/theme-example-images/logo.png" width="500">

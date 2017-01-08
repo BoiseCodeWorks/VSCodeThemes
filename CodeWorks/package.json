@@ -1,28 +1,28 @@
 {
-	"name": "theme-codeworks",
-	"displayName": "CodeWorks Theme",
-	"description": "CodeWorks Theme for Visual Studio Code",
-	"version": "0.0.1",
-	"publisher": "BoiseCodeWorks",
-	"engines": {
-		"vscode": "^0.10.1"
-	},
-	"categories": [
-		"Themes"
-	],
-	"icon": "icon.svg",
-	"homepage": "https://github.com/boisecodeworks/VSCodeThemes/blob/master/overall.Theme-CodeWorks/README.md",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/boisecodeworks/VSCodeThemes.git"
-	},
-	"contributes": {
-		"themes": [
-			{
-				"label": "CodeWorks",
-				"uiTheme": "vs-dark",
-				"path": "./themes/CodeWorks.tmTheme"
-			}
-		]
-	}
+    "name": "theme-codeworks",
+    "displayName": "CodeWorks Theme",
+    "description": "CodeWorks Theme for Visual Studio Code",
+    "version": "0.1.0",
+    "publisher": "BoiseCodeWorks",
+    "engines": {
+        "vscode": "^0.10.1"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "icon.svg",
+    "homepage": "https://github.com/boisecodeworks/VSCodeThemes/blob/master/CodeWorks/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/boisecodeworks/VSCodeThemes.git"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "CodeWorks",
+                "uiTheme": "vs-dark",
+                "path": "./themes/CodeWorks.tmTheme"
+            }
+        ]
+    }
 }

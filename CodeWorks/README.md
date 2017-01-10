@@ -8,7 +8,7 @@ Example `JavaScript`
 
 Example `html`
 
-<img src="https://bcw.blob.core.windows.net/public/img/theme-example-images/theme-example-js.jpg" width="500">
+<img src="https://bcw.blob.core.windows.net/public/img/theme-example-images/theme-example-html.jpg" width="500">
 
 Example `markdown`
 
